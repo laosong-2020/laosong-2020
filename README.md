@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF779&multiline=true&random=false&width=435&lines=Talk+is+cheap.+Documenting+is+even+cheaper.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=200&color=2CF779&multiline=true&random=false&width=500&lines=Talk+is+cheap.+;Documenting+is+even+cheaper.)](https://git.io/typing-svg)
 
 ## I am ...
 1. 🖥️ A Developer
